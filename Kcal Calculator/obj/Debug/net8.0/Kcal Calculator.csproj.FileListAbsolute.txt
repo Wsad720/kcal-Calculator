@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\Kcal Calculator\bin\Debug\net8.0\Kcal Calculator.exe
+C:\Users\Gabriel\source\repos\Kcal Calculator\bin\Debug\net8.0\Kcal Calculator.deps.json
+C:\Users\Gabriel\source\repos\Kcal Calculator\bin\Debug\net8.0\Kcal Calculator.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Kcal Calculator\bin\Debug\net8.0\Kcal Calculator.dll
+C:\Users\Gabriel\source\repos\Kcal Calculator\bin\Debug\net8.0\Kcal Calculator.pdb
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\Kcal Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\Kcal Calculator.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\Kcal Calculator.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\Kcal Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\Kcal Calculator.dll
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\refint\Kcal Calculator.dll
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\Kcal Calculator.pdb
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\Kcal Calculator.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Kcal Calculator\obj\Debug\net8.0\ref\Kcal Calculator.dll
